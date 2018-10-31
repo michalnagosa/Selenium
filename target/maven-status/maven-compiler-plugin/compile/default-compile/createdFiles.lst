@@ -1,0 +1,5 @@
+PageObject\Login.class
+PageObject\ADDPair.class
+Test\Sanity.class
+Test\VerifyElement.class
+Util\RealLogin.class
